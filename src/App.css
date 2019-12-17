@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+
+.wrapper{
+    position: absolute;
+    top : 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+
+.with-image{
+    background-image: url("./image2.png");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+ 
+h1{
+    color: white;
+    font-weight: 800;
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    margin-top: 200px;
+    line-height: 10px;
+    margin-left: 500px;
+
+    font-size: 50px;
+    font-weight: 1000;
+}
+
+
+
+h5{
+    margin-left: 75px;
+    color: white;
+}
+
+
+p{
+    color: white;
+  line-height:  10px;
+  margin-left: 14%;
+  font-weight: normal;
+  font-size: 30px;
+  margin-top: 50px;
+
+  font-size: 36px;
+  margin-left: 321px;
+  margin-right: 120px;
+  line-height: 35px;
+}
+
+.Component2{
+    
+    border: 1px solid #E67E22;
+  border-radius: 25px;
+  background: #E67E22;
+  width: 24%;
+  color: white;
+  padding: 8px;
+  font-size: 25px;
+  font-weight: 800;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+
+}
+
+.icon{
+    background-image: "./icon.png";
+    margin-left: 1200px;
+    margin-top: -450px;
+
+    line-height: 120px;
+    width: 50px;
+    height: 40px;
+}
